@@ -1,0 +1,8 @@
+loan/final_project/Lib/
+loan/final_project/Scripts/
+loan/final_project/Include/
+loan/final_project/etc/
+loan/final_project/share/
+__pycache__/
+*.pyc
+.env
